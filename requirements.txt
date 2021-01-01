@@ -1,0 +1,4 @@
+sounddevice==0.4.1
+amazon-transcribe==0.2.0
+aiofile==3.3.3
+boto3==1.12.2
